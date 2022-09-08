@@ -1,0 +1,117 @@
+.root {
+  position: absolute;
+  left: 947px;
+  top: 64px;
+  width: min-content;
+  height: min-content;
+}
+.group3936 {
+  position: relative;
+  width: 385px;
+  height: 21px;
+}
+.buttonContact {
+  position: absolute;
+  left: 0;
+  right: 88.5714%;
+  top: 90.4762%;
+  bottom: 0;
+  background-color: #333;
+}
+.inicio {
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 88.8312%;
+  top: 0;
+  bottom: 9.5238%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line15 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 16.3636%;
+  right: 78.7013%;
+  top: 80.9524%;
+  bottom: 9.5238%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #333;
+  transform: matrix(0, -1, 1, 0, 0, 0);
+}
+.soluciones {
+  color: #333;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.5584%;
+  right: 56.8831%;
+  top: 0;
+  bottom: 9.5238%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line16 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 48.3117%;
+  right: 46.7532%;
+  top: 80.9524%;
+  bottom: 9.5238%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #333;
+  transform: matrix(0, -1, 1, 0, 0, 0);
+}
+.nosotros {
+  color: #333;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.5065%;
+  right: 28.5714%;
+  top: 0;
+  bottom: 9.5238%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line17 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 76.6234%;
+  right: 18.4416%;
+  top: 80.9524%;
+  bottom: 9.5238%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #333;
+  transform: matrix(0, -1, 1, 0, 0, 0);
+}
+.contacto {
+  color: #333;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81.8182%;
+  right: 0;
+  top: 0;
+  bottom: 9.5238%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

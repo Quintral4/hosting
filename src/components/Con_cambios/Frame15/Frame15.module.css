@@ -1,0 +1,63 @@
+.root {
+  position: absolute;
+  left: 53px;
+  top: 1619px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 14px;
+  padding: 39px 29px;
+  outline: solid 2.1955px #b48ff5;
+  outline-offset: -2px;
+  border-radius: 21.9551px;
+  box-shadow: 0px 5.8547px 10.9776px 3.6592px #3333331a;
+}
+.group3933 {
+  z-index: 0;
+  width: 158.077px;
+  height: 146.3676px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.calidez {
+  color: #333;
+  font-size: 30.7372px;
+  line-height: 36.5919px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.elContextoFacilitaODetraeElCam {
+  z-index: 0;
+  width: 315px;
+  height: 82px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #333;
+  font-size: 18px;
+  line-height: 20.4915px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 18px;
+  line-height: 20.4915px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
