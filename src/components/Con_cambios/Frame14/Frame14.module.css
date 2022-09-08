@@ -1,0 +1,101 @@
+.button.button {
+  left: 25.7658%;
+  right: 25.4054%;
+  top: 88.0734%;
+  bottom: 3.1193%;
+  width: initial;
+  height: initial;
+  place-content: space-around;
+  align-items: center;
+}
+.potenciaTuGestion {
+  color: #fafafa;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: absolute;
+  left: 722px;
+  top: 2206px;
+  width: 555px;
+  height: 545px;
+  place-content: center;
+  align-items: flex-start;
+  gap: 28px;
+  padding: 48px 28px;
+  border-radius: 30px;
+  background-image: linear-gradient(180deg, #eaecf0ff 0%, #eaecf000 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.contamosConAlgunasTitulaciones {
+  position: absolute;
+  left: 5.045%;
+  right: 4.5045%;
+  top: 10.4027%;
+  bottom: 47.3154%;
+  flex-direction: column;
+}
+.textBlock {
+  color: #333333b2;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #333333b2;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+.textBlock3 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 18px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #333333b2;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #333333b2;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+}
+.contactUsCuate {
+  position: absolute;
+  left: 143px;
+  top: 312px;
+  width: 274.319px;
+  height: 143.9998px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
